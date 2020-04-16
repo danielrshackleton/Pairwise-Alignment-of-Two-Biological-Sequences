@@ -1,15 +1,19 @@
 # Pairwise-Alignment-of-Two-Biological-Sequences
 Pairwise Sequence Alignment is used to identify regions of similarity that may indicate functional, structural and/or evolutionary relationships between two biological sequences. This Java MVC application optimally aligns two protein sequences by similarity, using the Needleman-Wunsch Algorithm.
 
+### Built With
+- Java
+- JavaFX
+
 # Getting Started
 
-## Prerequisites
+### Prerequisites
 This application requires Java Runtime Environment 1.8 or higher.
 
 Download the latest JRE from: https://www.java.com/en/download/
 
 
-## Installation
+### Installation
 1. Clone the repo
 
 `git clone https://github.com/danielrshackleton/Pairwise-Alignment-of-Two-Biological-Sequences.git`
