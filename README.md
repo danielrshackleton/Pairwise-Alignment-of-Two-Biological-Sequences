@@ -6,7 +6,7 @@ Pairwise Sequence Alignment is used to identify regions of similarity that may i
 ## Prerequisites
 This application requires Java Runtime Environment 1.8 or higher.
 
-Download the lates JRE from: https://www.java.com/en/download/
+Download the latest JRE from: https://www.java.com/en/download/
 
 
 ## Installation
