@@ -9,7 +9,7 @@ Pairwise Sequence Alignment is used to identify regions of similarity that may i
 2. Run 'Protein Sequencing.exe'
 
 # Usage
-To input the two sequences, you can either enter the protein sequence string into a text area, or you can
+You can either enter your two protein sequence strings into a text area, or you can
 browse for a FASTA-format .txt file. You can input one or both of either. For instance, Sequence 1 can be entered in the first text
 area, and Sequence2 uploaded as a file. You can then run your alignment through through several filters, namely:
 
