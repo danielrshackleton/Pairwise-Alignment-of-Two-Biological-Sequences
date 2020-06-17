@@ -40,3 +40,9 @@ molecule names and species origins (if FASTA files were used).
 
 An additional ‘how does this work’ button brings up a tutorial to teach the fundamental algorithm of
 this program.
+
+### DEMO with existing FASTA files:
+1. Run the `Protein Sequencing.exe` file
+2. For Protein 1, click Browse and open src > Resources > Human_CS_O75390_fasta.txt
+3. For Protein 1, click Browse and open src > Resources > Yeast_CS_P00890_fasta.txt
+4. Click 'Start Alignment' (Leave options as default for a standard comparison)
